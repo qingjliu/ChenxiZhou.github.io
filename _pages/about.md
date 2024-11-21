@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Personal Page of ChenxiZhou"
+title: "Personal Page of Chenxi Zhou"
 author_profile: true
 redirect_from: 
   - /about/
